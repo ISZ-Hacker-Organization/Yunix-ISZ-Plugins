@@ -20,3 +20,10 @@
 - [ISZ-NTR-FOLDER](https://github.com/JaxOffTheHook/IceStationZPlugin-Yunix/tree/main/ISZ%20NTR%20Plugins)
 - [ISZ-3GX-FOLDER](https://github.com/JaxOffTheHook/IceStationZPlugin-Yunix/tree/main/ISZ%203GX%20Plugins)
 - [BMZ-3GX-FOLDER](https://github.com/JaxOffTheHook/IceStationZPlugin-Yunix/tree/main/BMZ%203GX%20Plugins)
+
+# How do I know I am banned?
+- You will see this:
+
+
+https://user-images.githubusercontent.com/105123340/182954962-71f87efc-7682-48ee-b0da-40cfcc74aa13.mp4
+
