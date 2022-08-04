@@ -1,5 +1,6 @@
 # IceStationZPlugin-Yunix
-Plugins made by Yunix (Finn/Jowa). For Ice Station Z. (These are VERY dangerous).
+- Plugins made by Yunix (Finn/Jowa). For Ice Station Z. (These are VERY dangerous).
+- These are *.3gx* plugins, Because of this they have alot of power over a console.
 
 # Risks:
 - These plugins have a list of players not allowed to use them.
