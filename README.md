@@ -9,7 +9,7 @@
 
 # List of Known Banned People:
 - [Cracko298](https://github.com/Cracko298)
-- [Owl.Gbc](https://github.com/eyed-owl)
+- [Owl.Gbc](https://github.com/OneEyedOwlLeaderOfGbcOfficial)
 - [Springtrap](https://github.com/SpringtrapISZ)
 - [Gage.C](https://github.com/GageCover)
 - These are the known people banned from using the plugin.
