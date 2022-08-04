@@ -15,4 +15,9 @@
 - These are the known people banned from using the plugin.
 - They have been illegally Key-Logged, and IP-Logged.
 
-# USE THESE AT YOUR OWN RISK!!!
+# DOWNLOAD:
+
+- ***USE THESE AT YOUR OWN RISK!!!***
+- [ISZ-NTR-FOLDER](https://github.com/JaxOffTheHook/IceStationZPlugin-Yunix/tree/main/ISZ%20NTR%20Plugins)
+- [ISZ-3GX-FOLDER](https://github.com/JaxOffTheHook/IceStationZPlugin-Yunix/tree/main/ISZ%203GX%20Plugins)
+- [BMZ-3GX-FOLDER](https://github.com/JaxOffTheHook/IceStationZPlugin-Yunix/tree/main/BMZ%203GX%20Plugins)
