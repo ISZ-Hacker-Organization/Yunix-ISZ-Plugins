@@ -12,6 +12,8 @@
 - [Owl.Gbc](https://github.com/OneEyedOwlLeaderOfGbcOfficial)
 - [Springtrap](https://github.com/SpringtrapISZ)
 - [Gage.C](https://github.com/GageCover)
+- Goldfish
+- Maxi.Gbc
 - These are the known people banned from using the plugin.
 - They have been illegally Key-Logged, and IP-Logged.
 
