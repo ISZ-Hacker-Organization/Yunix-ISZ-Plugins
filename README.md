@@ -15,7 +15,7 @@
 - Goldfish
 - Maxi.Gbc
 - These are the known people banned from using the plugin.
-- They have been illegally Key-Logged, and IP-Logged.
+- They have been illegally ID-Logged.
 
 # DOWNLOAD:
 ***USE THESE AT YOUR OWN RISK!!!***
