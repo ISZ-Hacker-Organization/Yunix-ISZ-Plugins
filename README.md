@@ -5,7 +5,7 @@
 # Risks:
 - These plugins have a list of players not allowed to use them.
 - IP and ID track your online play.
-- If you are found abusing these, the plugin can/will attempt to corrupt save-data.
+- If you are found abusing these, the plugin can be used to brick or reset your console.
 
 # List of Known Banned People:
 - [Cracko298](https://github.com/Cracko298)
