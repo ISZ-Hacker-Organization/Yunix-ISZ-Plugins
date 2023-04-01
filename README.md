@@ -14,8 +14,29 @@
 - [Gage.C](https://github.com/GageCover)
 - Goldfish
 - Maxi.Gbc
-- These are the known people banned from using the plugin.
-- They have been illegally ID-Logged.
+- They have been illegally ID & IP-Logged.
+
+
+
+
+
+# WARNING:
+![image](https://user-images.githubusercontent.com/105123340/229308445-b0295cf1-a244-44ce-af2c-766e787bc953.png)
+
+## Translation
+
+```
+Yunix: "Online Day Changer I Have" i can see if someone is using my plugin btw if i see you online i can even brick your 3ds that has the new security system in it. 
+
+ino: which version?
+
+Yunix: Since 0.0.7 and all after.
+```
+
+
+# NOTICE:
+- Plugin Repo is Back!
+
 
 # DOWNLOAD:
 ***USE THESE AT YOUR OWN RISK!!!***
