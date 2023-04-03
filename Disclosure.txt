@@ -1,1 +1,4 @@
 THESE PLUGINS CONTAIN CODE THAT COULD LEAD TO PERSONAL DATA BEING EXPOSED SUCH AS IP.
+
+Warning:
+These codes are good but dangerous remember that all .3gx whether good or not can be dangerous so find out from the users of the plugin and get their opinions!
