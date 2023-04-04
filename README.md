@@ -12,7 +12,7 @@
 - [Owl.Gbc](https://github.com/OneEyedOwlLeaderOfGbcOfficial)
 - [Springtrap](https://github.com/SpringtrapISZ)
 - [Gage.C](https://github.com/GageCover)
--[TheDarksiders](https://github.com/LeDarksiders) (old 3ds)
+- [TheDarksiders](https://github.com/LeDarksiders) (old 3ds)
 - Goldfish
 - Maxi.Gbc
 - They have been illegally ID & IP-Logged.
