@@ -53,7 +53,9 @@ Yunix: Since 0.0.7 and all after.
 
 WARNING!!! A very good C++ coder has made a program to examine his plugin, we can see that the plugin has access to your 3DS files directly and can therefore delete them, he also accesses a file that must not be deleted at risk that your 3DS breaks
 ![image](https://user-images.githubusercontent.com/114985285/236847951-a27c50db-df6c-450c-a040-590e87d8b070.png)
-English translation : ```Probably DS settings
+English translation :
+```
+Probably DS settings
 Already it is in the memory of the DS
 So a pillar thing that should not be deleted
 Hey Yunix
