@@ -17,7 +17,7 @@
 - Maxi.Gbc
 - They have been illegally ID & IP-Logged.
 
-## This includes everyone that has been accosiated with [Cracko298]().
+## This includes everyone that has been accosiated (been friends with) with [Cracko298]().
 
 
 
